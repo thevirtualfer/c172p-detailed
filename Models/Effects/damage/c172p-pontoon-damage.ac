@@ -11,7 +11,7 @@ kids 28
 OBJECT poly
 name "L-FloatCB"
 loc 0.7202504 -1.7446052 1.0137918
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 129
 -0.0820342 -0.1022528 -0.3299455
@@ -1206,7 +1206,7 @@ kids 0
 OBJECT poly
 name "L-FloatCD"
 loc 0.7267980 -1.7135800 1.1558400
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 129
 -0.0088391 -0.1091620 -0.3377200
@@ -2401,7 +2401,7 @@ kids 0
 OBJECT poly
 name "L-FloatOB"
 loc 0.7202504 -1.7446052 1.0137918
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 114
 -0.0820342 -0.1022528 -0.3299455
@@ -3413,7 +3413,7 @@ kids 0
 OBJECT poly
 name "L-FloatOD"
 loc 0.7267980 -1.7135800 1.1558400
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 114
 -0.0088391 -0.1091620 -0.3377200
@@ -4425,7 +4425,7 @@ kids 0
 OBJECT poly
 name "LdamperOB"
 loc -1.7818272 -1.7576201 1.9208078
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 564
 0.0523067 -0.0707877 -0.0349306
@@ -8879,7 +8879,7 @@ kids 0
 OBJECT poly
 name "LdamperOD"
 loc -1.8712463 -1.6963847 1.4652525
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 564
 0.0441201 -0.0732448 -0.0406897
@@ -13333,7 +13333,7 @@ kids 0
 OBJECT poly
 name "LHrudderB"
 loc 0.7171740 -0.2193262 -0.7448797
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 48
 2.9545200 -1.2078000 1.1552200
@@ -13717,7 +13717,7 @@ kids 0
 OBJECT poly
 name "LHrudderD"
 loc 0.7975370 -0.1837090 -0.0030863
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 48
 2.9545200 -1.2078000 1.1552200
@@ -14101,7 +14101,7 @@ kids 0
 OBJECT poly
 name "LRwheelOB"
 loc 0.9225071 -1.9124436 0.9458574
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 899
 0.0608779 -0.0124651 -0.1248334
@@ -21656,7 +21656,7 @@ kids 0
 OBJECT poly
 name "LRwheelOD"
 loc 0.9304272 -1.8530682 1.1544956
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 899
 0.0835365 -0.0091601 -0.1112772
@@ -29211,7 +29211,7 @@ kids 0
 OBJECT poly
 name "LstrutOB.001"
 loc 0.8367555 -0.0558983 0.1579621
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 32
 -2.7618589 -1.6250846 1.5746977
@@ -29501,7 +29501,7 @@ kids 0
 OBJECT poly
 name "LstrutOB.002"
 loc 0.8312881 -0.0456968 0.1428061
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 26
 -2.7311788 -1.5105503 1.4776828
@@ -29729,7 +29729,7 @@ kids 0
 OBJECT poly
 name "LstrutOD.001"
 loc 0.7462168 0.0142154 -0.2803347
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 32
 -2.7618589 -1.6250846 1.5746977
@@ -30019,7 +30019,7 @@ kids 0
 OBJECT poly
 name "LstrutOD.002"
 loc 0.7407494 0.0244168 -0.2954906
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 26
 -2.7311788 -1.5105503 1.4776828
@@ -30247,7 +30247,7 @@ kids 0
 OBJECT poly
 name "R-FloatCB"
 loc 0.7265725 -1.7190001 -1.1497772
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 129
 -0.0800125 -0.0942434 0.3328144
@@ -31442,7 +31442,7 @@ kids 0
 OBJECT poly
 name "R-FloatCD"
 loc 0.7267980 -1.7135800 -1.1557600
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 129
 -0.0088391 -0.1091620 0.3377200
@@ -32637,7 +32637,7 @@ kids 0
 OBJECT poly
 name "R-FloatOB"
 loc 0.7265725 -1.7190001 -1.1497772
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 114
 -0.0800125 -0.0942434 0.3328144
@@ -33649,7 +33649,7 @@ kids 0
 OBJECT poly
 name "R-FloatOD"
 loc 0.7267980 -1.7135800 -1.1557600
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 114
 -0.0088391 -0.1091620 0.3377200
@@ -34661,7 +34661,7 @@ kids 0
 OBJECT poly
 name "RdamperOB"
 loc -1.9282894 -1.4949926 -2.0722685
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 564
 0.0020509 0.0660124 -0.0678616
@@ -39115,7 +39115,7 @@ kids 0
 OBJECT poly
 name "RdamperOD"
 loc -1.9791577 -1.5409884 -1.4775308
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 564
 0.0044632 0.0499411 -0.0803306
@@ -43569,7 +43569,7 @@ kids 0
 OBJECT poly
 name "RHrudderB"
 loc 0.7433903 -0.1855557 0.5234988
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 48
 2.9523051 -1.2472411 -1.1183864
@@ -43953,7 +43953,7 @@ kids 0
 OBJECT poly
 name "RHrudderD"
 loc 0.7975370 -0.1837090 -0.0057254
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 48
 2.9545200 -1.2078000 -1.1552200
@@ -44337,7 +44337,7 @@ kids 0
 OBJECT poly
 name "RRwheelOB"
 loc 0.9670553 -1.9037135 -1.0749031
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 899
 0.0319693 0.0192487 -0.1070127
@@ -51892,7 +51892,7 @@ kids 0
 OBJECT poly
 name "RRwheelOD"
 loc 0.8879310 -1.8751093 -1.1676853
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 899
 0.0766676 -0.0128843 -0.1112027
@@ -59447,7 +59447,7 @@ kids 0
 OBJECT poly
 name "RstrutOB.001"
 loc 1.1020755 -1.2101400 -0.2534421
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 32
 -3.1287241 -0.1715711 -1.6297213
@@ -59737,7 +59737,7 @@ kids 0
 OBJECT poly
 name "RstrutOB.002"
 loc 1.0662178 -1.1895256 -0.2428789
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 26
 -3.0573609 -0.1036956 -1.5234747
@@ -59965,7 +59965,7 @@ kids 0
 OBJECT poly
 name "RstrutOD.001"
 loc 1.0595437 -1.2374650 0.3169203
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 32
 -3.1287241 -0.1715711 -1.6297213
@@ -60255,7 +60255,7 @@ kids 0
 OBJECT poly
 name "RstrutOD.002"
 loc 1.0236861 -1.2168506 0.3274835
-texture "floats.png"
+texture "Textures/floats.png"
 texrep 1 1
 numvert 26
 -3.0573609 -0.1036956 -1.5234747
