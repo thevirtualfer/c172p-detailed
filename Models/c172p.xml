@@ -5071,7 +5071,7 @@
         <object-name>PropellerD</object-name>
         <property-base>sim/model/livery/</property-base>
         <texture-prop>texture</texture-prop>
-        <texture>fuselage.png </texture>
+        <texture>Textures/fuselage.png </texture>
     </animation>
     <animation>
         <type>material</type>
@@ -5103,7 +5103,7 @@
         <object-name>leftaileronLGRB</object-name>
         <property-base>sim/model/liverywing/</property-base>
         <texture-prop>texture</texture-prop>
-        <texture>wing.png</texture>
+        <texture>Textures/wing.png</texture>
     </animation>
     <animation>
         <type>material</type>
@@ -5115,7 +5115,7 @@
         <object-name>elevatorright</object-name>
         <property-base>sim/model/liverytail/</property-base>
         <texture-prop>texture</texture-prop>
-        <texture>tail.png</texture>
+        <texture>Textures/tail.png</texture>
     </animation>
     <animation>
         <type>material</type>
@@ -5142,7 +5142,7 @@
         <object-name>RHrudderB</object-name>
         <property-base>sim/model/liveryfloat/</property-base>
         <texture-prop>texture</texture-prop>
-        <texture>floats.png</texture>
+        <texture>Textures/floats.png</texture>
     </animation>
     <animation>
         <type>material</type>
@@ -5156,7 +5156,7 @@
         <object-name>doorint_right</object-name>
         <property-base>sim/model/liveryinterior/</property-base>
         <texture-prop>texture</texture-prop>
-        <texture>interior.png</texture>
+        <texture>Textures/interior.png</texture>
     </animation>
     <animation>
         <type>material</type>
@@ -5166,7 +5166,7 @@
         <!-- MODEND: resume all to Panel_Rack_Base -->
         <property-base>sim/model/liverypanel/</property-base>
         <texture-prop>texture</texture-prop>
-        <texture>panel.png</texture>
+        <texture>Textures/panel.png</texture>
     </animation>
     <animation>
         <type>material</type>
@@ -5180,7 +5180,7 @@
         <object-name>doorhandleint_right</object-name>
         <property-base>sim/model/liveryparts/</property-base>
         <texture-prop>texture</texture-prop>
-        <texture>panel_parts.png</texture>
+        <texture>Textures/panel_parts.png</texture>
     </animation>
 
     <!-- ALS volume shadow  -->

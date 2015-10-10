@@ -28,7 +28,7 @@ kids 77
 OBJECT poly
 name "AirVent_left"
 loc 0.0234935 -0.0140961 -0.0000000
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 90
 -0.0541113 0.5141684 0.5173869
@@ -721,7 +721,7 @@ kids 0
 OBJECT poly
 name "AirVent_right"
 loc 0.0234935 -0.0140961 -0.0000000
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 50
 -0.0627322 0.5231081 -0.4544612
@@ -1094,7 +1094,7 @@ kids 0
 OBJECT poly
 name "Antenna_ADF"
 loc 0.1474275 0.5309296 0.0000000
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 33
 0.0000000 -0.0032736 -0.0141965
@@ -1353,7 +1353,7 @@ kids 0
 OBJECT poly
 name "Antenna_VOR"
 loc 5.4629159 0.9674446 0.0000000
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 48
 0.0000000 0.0204834 0.0510976
@@ -2431,7 +2431,7 @@ refs 4
 kids 0
 OBJECT poly
 name "BeaconOff"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 25
 5.5208688 1.1219809 0.0000849
@@ -2625,7 +2625,7 @@ refs 4
 kids 0
 OBJECT poly
 name "BeaconOffX"
-texture "transparent2.png"
+texture "Textures/transparent2.png"
 texrep 1 1
 numvert 8
 1.0000000 0.9998820 -0.0011390
@@ -2655,7 +2655,7 @@ kids 0
 OBJECT poly
 name "bolts"
 loc -0.2067744 -0.5662416 0.4568826
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 945
 -0.2254770 0.0094123 0.0002708
@@ -9968,7 +9968,7 @@ kids 0
 OBJECT poly
 name "BottomLink"
 loc -4.3604202 1.8667099 0.0000000
-texture "fuselage.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 64
 3.3371401 -2.8039100 0.0307910
@@ -10541,7 +10541,7 @@ kids 0
 OBJECT poly
 name "CeilingSpeaker"
 loc 0.2955276 0.4496872 0.0000000
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 8
 -0.1298027 0.0062128 0.0933828
@@ -10678,7 +10678,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Exhaust"
-texture "fuselage.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 16
 -1.3031200 -0.7734270 -0.2916730
@@ -10757,7 +10757,7 @@ refs 4
 kids 0
 OBJECT poly
 name "exhaust_base"
-texture "fuselage.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 12
 -1.3724433 -0.5914552 -0.2375835
@@ -11452,7 +11452,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FuelSelectorBoth"
-texture "fuel-selector.png"
+texture "Textures/fuel-selector.png"
 texrep 1 1
 numvert 20
 -0.2475760 -0.6614550 0.0039540
@@ -11605,7 +11605,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FuelSelectorFace"
-texture "fuel-selector.png"
+texture "Textures/fuel-selector.png"
 texrep 1 1
 numvert 65
 -0.1881190 -0.6855010 -0.0555250
@@ -12093,7 +12093,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FuelSelectorLeft"
-texture "fuel-selector.png"
+texture "Textures/fuel-selector.png"
 texrep 1 1
 numvert 20
 -0.2373910 -0.6614550 0.0039540
@@ -12246,7 +12246,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FuelSelectorOff"
-texture "fuel-selector.png"
+texture "Textures/fuel-selector.png"
 texrep 1 1
 numvert 20
 -0.2373910 -0.6614550 -0.0062320
@@ -12399,7 +12399,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FuelSelectorRight"
-texture "fuel-selector.png"
+texture "Textures/fuel-selector.png"
 texrep 1 1
 numvert 20
 -0.2475760 -0.6614550 -0.0062320
@@ -12555,7 +12555,7 @@ name "fuselage_1"
 kids 12
 OBJECT poly
 name "baggagedoorexterior"
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 44
 1.4549900 -0.1666660 0.4785510
@@ -12817,7 +12817,7 @@ refs 3
 kids 0
 OBJECT poly
 name "charniere3"
-texture "fuselage.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 28
 -0.1284780 -0.3360310 0.5340180
@@ -13010,7 +13010,7 @@ refs 4
 kids 0
 OBJECT poly
 name "charniere4"
-texture "fuselage.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 28
 -0.1284780 -0.3360310 -0.5362970
@@ -13203,7 +13203,7 @@ refs 4
 kids 0
 OBJECT poly
 name "fairing1"
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 324
 -1.1780200 -1.0033979 0.0329380
@@ -15788,7 +15788,7 @@ refs 4
 kids 0
 OBJECT poly
 name "fairing2"
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 324
 0.4446730 -0.9181260 1.1847515
@@ -18373,7 +18373,7 @@ refs 4
 kids 0
 OBJECT poly
 name "fairing3"
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 324
 0.4446730 -0.9133710 -1.1167580
@@ -20958,7 +20958,7 @@ refs 4
 kids 0
 OBJECT poly
 name "fuselage_1"
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 1100
 1.7383900 0.1671720 0.0000000
@@ -29239,7 +29239,7 @@ refs 4
 kids 0
 OBJECT poly
 name "leftdoor"
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 125
 -0.1049800 -0.6351800 0.5049100
@@ -29988,7 +29988,7 @@ kids 0
 OBJECT poly
 name "LeftWheelStrut"
 loc 1.9109000 -1.3533800 0.0095212
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 32
 -1.3153600 0.2134740 1.0560400
@@ -30139,7 +30139,7 @@ refs 4
 kids 0
 OBJECT poly
 name "radi_box"
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 104
 -1.5958200 -0.5555500 0.0000010
@@ -30930,7 +30930,7 @@ refs 4
 kids 0
 OBJECT poly
 name "rightdoor"
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 125
 -0.1049800 -0.6352980 -0.5060470
@@ -31679,7 +31679,7 @@ kids 0
 OBJECT poly
 name "RightWheelStrut"
 loc 1.9109000 -1.3533800 0.0095212
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 32
 -1.1461800 0.6488570 -0.4540450
@@ -34166,7 +34166,7 @@ name "GROUP_FrontPanels"
 kids 3
 OBJECT poly
 name "mike_mount"
-texture "panel.png"
+texture "Textures/panel.png"
 texrep 1 1
 numvert 56
 -0.3512215 -0.4340182 -0.0611917
@@ -34564,7 +34564,7 @@ name "panel"
 kids 2
 OBJECT poly
 name "InstrumentCover"
-texture "panel.png"
+texture "Textures/panel.png"
 texrep 1 1
 numvert 30
 -0.3651530 -0.2035020 -0.2008740
@@ -34759,7 +34759,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Pedestal"
-texture "panel.png"
+texture "Textures/panel.png"
 texrep 1 1
 numvert 229
 -0.3382340 -0.5514010 -0.0935450
@@ -36820,7 +36820,7 @@ name "panel_1"
 kids 3
 OBJECT poly
 name "panel_1_1.inf"
-texture "panel.png"
+texture "Textures/panel.png"
 texrep 1 1
 numvert 249
 -0.3640440 -0.3206992 0.4691970
@@ -38643,7 +38643,7 @@ refs 4
 kids 0
 OBJECT poly
 name "panel_1_1_right"
-texture "panel.png"
+texture "Textures/panel.png"
 texrep 1 1
 numvert 597
 -0.3601160 0.0833884 -0.2246899
@@ -43480,7 +43480,7 @@ refs 4
 kids 0
 OBJECT poly
 name "panel_1_gauges"
-texture "panel.png"
+texture "Textures/panel.png"
 texrep 1 1
 numvert 1834
 -0.3599410 0.0190755 0.1191284
@@ -56643,7 +56643,7 @@ name "GROUP_Interior"
 kids 6
 OBJECT poly
 name "backseat_left"
-texture "interior.png"
+texture "Textures/interior.png"
 texrep 1 1
 numvert 124
 0.6886850 -0.6140376 0.2993350
@@ -57619,7 +57619,7 @@ refs 4
 kids 0
 OBJECT poly
 name "carpet"
-texture "interior.png"
+texture "Textures/interior.png"
 texrep 1 1
 numvert 193
 0.8230610 -0.7249210 0.4144520
@@ -58613,7 +58613,7 @@ refs 4
 kids 0
 OBJECT poly
 name "chassis"
-texture "interior.png"
+texture "Textures/interior.png"
 texrep 1 1
 numvert 1458
 -0.6633609 -0.0139010 0.4755999
@@ -69463,7 +69463,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Firewall"
-texture "interior.png"
+texture "Textures/interior.png"
 texrep 1 1
 numvert 40
 -0.7705460 -0.1985340 0.4688640
@@ -69690,7 +69690,7 @@ refs 4
 kids 0
 OBJECT poly
 name "pilotseat_left"
-texture "interior.png"
+texture "Textures/interior.png"
 texrep 1 1
 numvert 188
 -0.0395560 -0.6140376 0.3916479
@@ -71184,7 +71184,7 @@ refs 4
 kids 0
 OBJECT poly
 name "pilotseat_right"
-texture "interior.png"
+texture "Textures/interior.png"
 texrep 1 1
 numvert 188
 -0.0395560 -0.6140376 -0.0741659
@@ -72681,7 +72681,7 @@ name "GROUP_InteriorParts"
 kids 22
 OBJECT poly
 name "BeaconSwitch"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 10
 -0.3559530 -0.2586840 0.1459720
@@ -72750,7 +72750,7 @@ refs 4
 kids 0
 OBJECT poly
 name "CabinAir"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 258
 -0.4567172 -0.2774305 -0.2555623
@@ -74967,7 +74967,7 @@ refs 3
 kids 0
 OBJECT poly
 name "CabinAirMounts"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 132
 -0.3928102 -0.2218230 -0.2613733
@@ -76322,7 +76322,7 @@ refs 4
 kids 0
 OBJECT poly
 name "CabinHeat"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 258
 -0.4567172 -0.2276340 -0.2555623
@@ -78539,7 +78539,7 @@ refs 3
 kids 0
 OBJECT poly
 name "CarbHeat"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 266
 -0.4473410 -0.2276340 0.0807790
@@ -80806,7 +80806,7 @@ refs 4
 kids 0
 OBJECT poly
 name "CarbHeatMount"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 65
 -0.3834340 -0.2218230 0.0749680
@@ -81294,7 +81294,7 @@ refs 4
 kids 0
 OBJECT poly
 name "LandingLightSwitch"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 10
 -0.3559530 -0.2110330 0.1209290
@@ -81364,7 +81364,7 @@ kids 0
 OBJECT poly
 name "LeftBag"
 loc -0.3172056 -0.6011842 0.4347736
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 232
 -0.0208279 0.1991511 0.0258676
@@ -83245,7 +83245,7 @@ refs 4
 kids 0
 OBJECT poly
 name "GenSwitch"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 10
 -0.3609670 -0.2232315 0.4138508
@@ -83314,7 +83314,7 @@ refs 4
 kids 0
 OBJECT poly
 name "MasterSwitch"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 10
 -0.3609671 -0.2231313 0.3984839
@@ -83383,7 +83383,7 @@ refs 4
 kids 0
 OBJECT poly
 name "mike"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 35
 -0.3666487 -0.3860383 -0.0528442
@@ -83598,7 +83598,7 @@ refs 4
 kids 0
 OBJECT poly
 name "mike_chord"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 274
 -0.3442158 -0.4906389 -0.0528442
@@ -85741,7 +85741,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Mixture"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 258
 -0.3671170 -0.2276340 -0.0933130
@@ -87958,7 +87958,7 @@ refs 3
 kids 0
 OBJECT poly
 name "MixtureMount"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 130
 -0.3940616 -0.2218230 -0.0996970
@@ -89151,7 +89151,7 @@ refs 4
 kids 0
 OBJECT poly
 name "NavLightSwitch"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 10
 -0.3559530 -0.2586840 0.1717110
@@ -89223,7 +89223,7 @@ name "panel_up"
 kids 2
 OBJECT poly
 name "Panel_0"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 210
 -0.3314350 0.1235320 -0.3727990
@@ -90700,7 +90700,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Panel_1"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 27
 -0.5960170 0.0590140 0.4959520
@@ -90850,7 +90850,7 @@ refs 4
 kids 0
 OBJECT poly
 name "PitotHeatSwitch"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 10
 -0.3559530 -0.2586840 0.1977980
@@ -90919,7 +90919,7 @@ refs 4
 kids 0
 OBJECT poly
 name "PrimerLeverMount"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 66
 -0.3928102 -0.2716195 0.4376248
@@ -91600,7 +91600,7 @@ refs 4
 kids 0
 OBJECT poly
 name "StrobeSwitch"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 10
 -0.3559530 -0.2586840 0.1209290
@@ -91669,7 +91669,7 @@ refs 4
 kids 0
 OBJECT poly
 name "TaxiLightSwitch"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 10
 -0.3559530 -0.2113810 0.1459720
@@ -91738,7 +91738,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Throttle"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 258
 -0.3671170 -0.2276340 -0.0030750
@@ -93955,7 +93955,7 @@ refs 3
 kids 0
 OBJECT poly
 name "ThrottleMount"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 162
 -0.3949863 -0.2218230 -0.0088860
@@ -95404,7 +95404,7 @@ refs 4
 kids 0
 OBJECT poly
 name "landinglight"
-texture "transparent2.png"
+texture "Textures/transparent2.png"
 texrep 1 1
 numvert 17
 -0.3399260 1.0074400 2.3825200
@@ -95671,7 +95671,7 @@ refs 4
 kids 0
 OBJECT poly
 name "windlocket_left"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 19
 0.3358010 -0.0756190 0.4628630
@@ -95803,7 +95803,7 @@ refs 3
 kids 0
 OBJECT poly
 name "windlocket_right"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 19
 0.3358010 -0.0756190 -0.4628630
@@ -95938,7 +95938,7 @@ name "LDoorGroup"
 kids 4
 OBJECT poly
 name "doorhandleint_left"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 17
 -0.0076640 -0.2446040 0.4831420
@@ -96068,7 +96068,7 @@ refs 3
 kids 0
 OBJECT poly
 name "doorhandleint_right"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 17
 -0.0076640 -0.2446040 -0.4831420
@@ -96198,7 +96198,7 @@ refs 3
 kids 0
 OBJECT poly
 name "doorint_left"
-texture "interior.png"
+texture "Textures/interior.png"
 texrep 1 1
 numvert 344
 0.0609160 -0.0815990 0.4845350
@@ -98735,7 +98735,7 @@ refs 4
 kids 0
 OBJECT poly
 name "doorint_right"
-texture "interior.png"
+texture "Textures/interior.png"
 texrep 1 1
 numvert 337
 0.0609160 -0.0815990 -0.4845350
@@ -101265,7 +101265,7 @@ refs 4
 kids 0
 OBJECT poly
 name "LeftNavLight"
-texture "fuselage.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 33
 0.2830700 0.5581050 5.6252809
@@ -101521,7 +101521,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LeftWheel"
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 418
 0.5301501 -1.3259294 1.0987879
@@ -105640,7 +105640,7 @@ refs 3
 kids 0
 OBJECT poly
 name "motor.001"
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 85
 -1.7038367 0.0351460 0.2082626
@@ -106174,7 +106174,7 @@ refs 4
 kids 0
 OBJECT poly
 name "navlight_back"
-texture "transparent2.png"
+texture "Textures/transparent2.png"
 texrep 1 1
 numvert 9
 6.1226902 0.8453245 -0.1308558
@@ -106238,7 +106238,7 @@ refs 3
 kids 0
 OBJECT poly
 name "navlight_left"
-texture "transparent2.png"
+texture "Textures/transparent2.png"
 texrep 1 1
 numvert 9
 0.3473750 0.4381230 5.6838412
@@ -106302,7 +106302,7 @@ refs 3
 kids 0
 OBJECT poly
 name "navlight_right"
-texture "transparent2.png"
+texture "Textures/transparent2.png"
 texrep 1 1
 numvert 9
 0.0928160 0.4381230 -5.6906290
@@ -106366,7 +106366,7 @@ refs 3
 kids 0
 OBJECT poly
 name "NoseWheel"
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 514
 -1.1149170 -1.3679180 0.0073865
@@ -110408,7 +110408,7 @@ kids 0
 OBJECT poly
 name "NoseWheelStrut"
 loc -0.1256325 -0.0515641 -0.0599531
-texture "fuselage.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 160
 -0.9029789 -1.0472561 -0.0335739
@@ -111787,7 +111787,7 @@ refs 4
 kids 0
 OBJECT poly
 name "ParkingBrake"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 129
 -0.5624510 -0.3286960 0.2005550
@@ -112787,7 +112787,7 @@ refs 3
 kids 0
 OBJECT poly
 name "PitotTube"
-texture "fuselage.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 9
 -0.2277170 0.4641610 1.5342211
@@ -112845,7 +112845,7 @@ refs 4
 kids 0
 OBJECT poly
 name "PrimerLever"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 258
 -0.4570627 -0.2774305 0.4434358
@@ -115062,7 +115062,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Propeller"
-texture "fuselage.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 26
 -1.8048918 -0.1887463 0.8776491
@@ -115295,7 +115295,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Propeller.Fast"
-texture "prop.png"
+texture "Textures/prop.png"
 texrep 1 1
 numvert 64
 -1.7866400 0.6578170 -0.7112000
@@ -115726,7 +115726,7 @@ refs 3
 kids 0
 OBJECT poly
 name "radiator"
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 4
 -1.5962602 -0.5553910 0.0471137
@@ -115744,7 +115744,7 @@ refs 4
 kids 0
 OBJECT poly
 name "RightNavLight"
-texture "fuselage.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 33
 0.2237820 0.5634670 -5.6506062
@@ -116000,7 +116000,7 @@ refs 4
 kids 0
 OBJECT poly
 name "RightWheel"
-texture "fuselage.png"
+texture "Textures/fuselage.png"
 texrep 1 1
 numvert 418
 0.5301501 -1.3258724 -1.0987990
@@ -120309,7 +120309,7 @@ refs 3
 kids 0
 OBJECT poly
 name "rudder_1"
-texture "tail.png"
+texture "Textures/tail.png"
 texrep 1 1
 numvert 77
 4.9415598 -0.3905400 0.0440100
@@ -120892,7 +120892,7 @@ refs 4
 kids 0
 OBJECT poly
 name "seat_mount"
-texture "interior.png"
+texture "Textures/interior.png"
 texrep 1 1
 numvert 48
 -0.0209595 -0.6939427 0.3629827
@@ -121031,7 +121031,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Spinner"
-texture "fuselage.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 50
 -1.7549781 -0.0993422 -0.1179349
@@ -121504,7 +121504,7 @@ refs 4
 kids 0
 OBJECT poly
 name "strobe1"
-texture "transparent2.png"
+texture "Textures/transparent2.png"
 texrep 1 1
 numvert 4
 -1.0000000 -1.0001180 -0.0011390
@@ -121527,7 +121527,7 @@ refs 3
 kids 0
 OBJECT poly
 name "strobe2"
-texture "transparent2.png"
+texture "Textures/transparent2.png"
 texrep 1 1
 numvert 4
 -1.0000000 -1.0001180 -0.0011390
@@ -121644,7 +121644,7 @@ kids 0
 OBJECT poly
 name "TopLink"
 loc -3.7697301 0.7712830 0.0000000
-texture "fuselage.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 64
 2.7802839 -1.5251687 0.0430939
@@ -122264,7 +122264,7 @@ refs 3
 kids 0
 OBJECT poly
 name "TrimWheel"
-texture "panel_parts.png"
+texture "Textures/panel_parts.png"
 texrep 1 1
 numvert 258
 -0.3463710 -0.4195560 0.0360550
@@ -125022,7 +125022,7 @@ kids 4
 OBJECT poly
 name "elevatorleft"
 loc -0.1964669 -0.1597908 0.0000000
-texture "tail.png"
+texture "Textures/tail.png"
 texrep 1 1
 numvert 37
 4.9795499 -0.2999113 1.6656300
@@ -125329,7 +125329,7 @@ kids 0
 OBJECT poly
 name "elevatorright"
 loc -0.1964669 -0.1597908 0.0000000
-texture "tail.png"
+texture "Textures/tail.png"
 texrep 1 1
 numvert 38
 5.0772600 -0.2989154 -1.6656300
@@ -125652,7 +125652,7 @@ kids 0
 OBJECT poly
 name "hstab"
 loc -0.1964669 -0.1597908 0.0000000
-texture "tail.png"
+texture "Textures/tail.png"
 texrep 1 1
 numvert 115
 4.4103498 -0.2278559 0.0000000
@@ -126823,7 +126823,7 @@ refs 3
 kids 0
 OBJECT poly
 name "vstab"
-texture "tail.png"
+texture "Textures/tail.png"
 texrep 1 1
 numvert 58
 5.6645098 0.8008170 0.0616140
@@ -127379,7 +127379,7 @@ name "wing_1"
 kids 6
 OBJECT poly
 name "flaps"
-texture "wing.png"
+texture "Textures/wing.png"
 texrep 1 1
 numvert 60
 1.1503400 0.3613170 0.5175570
@@ -127764,7 +127764,7 @@ refs 4
 kids 0
 OBJECT poly
 name "leftaileron"
-texture "wing.png"
+texture "Textures/wing.png"
 texrep 1 1
 numvert 8
 1.1528500 0.3781550 2.6161699
@@ -127793,7 +127793,7 @@ refs 4
 kids 0
 OBJECT poly
 name "rightaileron"
-texture "wing.png"
+texture "Textures/wing.png"
 texrep 1 1
 numvert 6
 1.1528500 0.3781560 -2.6161699
@@ -127820,7 +127820,7 @@ refs 4
 kids 0
 OBJECT poly
 name "wing_1"
-texture "wing.png"
+texture "Textures/wing.png"
 texrep 1 1
 numvert 189
 0.0879210 0.5369120 0.0000000
@@ -129299,7 +129299,7 @@ refs 4
 kids 0
 OBJECT poly
 name "wing_1L"
-texture "wing.png"
+texture "Textures/wing.png"
 texrep 1 1
 numvert 7
 0.0873930 0.5304230 0.5175570
@@ -129333,7 +129333,7 @@ refs 3
 kids 0
 OBJECT poly
 name "wing_1R"
-texture "wing.png"
+texture "Textures/wing.png"
 texrep 1 1
 numvert 7
 0.0873930 0.5304230 -0.5175570
@@ -129367,7 +129367,7 @@ refs 3
 kids 0
 OBJECT poly
 name "ZHI_cent"
-texture "interior_windows.png"
+texture "Textures/interior_windows.png"
 texrep 1 1
 numvert 36
 1.5006539 -0.7241852 0.2205302
